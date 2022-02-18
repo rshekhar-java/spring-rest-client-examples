@@ -15,6 +15,8 @@
     <description>spring-rest-client-examples</description>
     <properties>
         <java.version>11</java.version>
+        <thymeleaf.version>3.0.15.RELEASE</thymeleaf.version>
+        <thymeleaf-spring5.version>3.0.15.RELEASE</thymeleaf-spring5.version>
     </properties>
     <dependencies>
         <dependency>
